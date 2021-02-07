@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title:  טכנולוגית המידע והדיגיטל
+    title: טכנולוגית המידע והדיגיטל
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
@@ -28,5 +28,12 @@ sections:
       - label: View Blog
         url: blog/index.html
         style: button
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        no_follow: false
+        type: action
 template: advanced
 ---
